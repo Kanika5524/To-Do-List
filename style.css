@@ -3,7 +3,7 @@ body{
     padding:0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
-    background:linear-gradient(135deg,blue,#4e085f)
+    background:linear-gradient(135deg,#F96E2A,#FBF8EF)
     
 }
 
@@ -15,7 +15,7 @@ body{
 .todo-app{
     width:100%;
     max-width:540px;
-    background:#fff;
+    background:#C9E6F0;
     margin: 100px auto 20px;
     padding:40px 30px 70px;
     border-radius:10px;
@@ -58,8 +58,8 @@ button{
     border:none;
     outline:none;
     padding:16px 50px;
-    background:#ff5945;
-    color:#fff;
+    background:#62013C;
+    color:#FFFF00;
     font-size:16px;
     border-radius:40px;
     cursor:pointer;
@@ -90,7 +90,7 @@ ul li::before{
 
 }
 ul li.checked{
-    color:#555;
+    color:#0A065D;
     text-decoration:line-through;
 
     
